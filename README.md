@@ -1,7 +1,7 @@
 # 📊 Sales Analytics Dashboard
 
 ## Overview
-This project is an interactive Power BI dashboard built using the SuperStore Sales dataset. It provides insights into sales performance, profitability, regional performance, and product trends.
+This project is an interactive Power BI dashboard built using the SuperStore Sales dataset. It provides insights into sales performance, profitability, regional trends, and product performance through interactive visualizations.
 
 ## Dashboard Preview
 

@@ -32,6 +32,15 @@ This project is an interactive Power BI dashboard built using the SuperStore Sal
 - Power Query
 - DAX
 
+## Skills Demonstrated
+- Power BI Dashboard Development
+- DAX Measures and Calculations
+- Data Cleaning using Power Query
+- Data Visualization
+- Interactive Dashboard Design
+- Business Intelligence Reporting
+
+
 ## Key Insights
 - Technology generated the highest sales.
 - Profit margin is approximately 11.6%.
@@ -42,4 +51,10 @@ This project is an interactive Power BI dashboard built using the SuperStore Sal
 - Sales_Analytics_Dashboard.pbix
 - Dashboard_Screenshot.png
 - Dataset (if included)
+- 
+- ## Author
+
+**Jagan Reddy**
+
+- GitHub: https://github.com/jaganreddydevudi1234
 

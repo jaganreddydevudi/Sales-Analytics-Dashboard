@@ -5,7 +5,7 @@ This project is an interactive Power BI dashboard built using the SuperStore Sal
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here after uploading it.)
+![Sales Dashboard](Dashboard_Screenshot.png)
 
 ## Key KPIs
 - Total Sales
